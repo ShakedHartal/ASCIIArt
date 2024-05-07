@@ -30,3 +30,12 @@ Comands the program supports:
 7. output - choosing the Output format.
     By default, the algorithm output is displayed in the console. To save the output in an HTML file, use "output html". The HTML file will be saved in the "out" folder   within the ASCIIArt directory.
 8. asciiArt - running the algorithm on the current parameters.
+
+# Example
+original photo:  
+![cat](https://github.com/ShakedHartal/ImageToASCII/assets/168190882/34ec1c86-a83c-48dd-a74e-e3c087bf8dd0)  
+512 resolution:  
+![out512](https://github.com/ShakedHartal/ImageToASCII/assets/168190882/a2c7ec61-f618-4a0b-b461-0317b2b74e09)  
+256 resolution:  
+<img width="486" alt="out256" src="https://github.com/ShakedHartal/ImageToASCII/assets/168190882/e69f9a30-d5b7-46df-a801-56413c2fe16c">
+
