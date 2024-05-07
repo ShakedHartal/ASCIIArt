@@ -2,19 +2,19 @@
 This project converts image files into ASCII art. The program accepts a relative image path, ASCII character collections and resolution. The output can be displayed in the console or saved in an HTML file.
 
 # Instructions
-Place the image file (PNG/JPEG) in the ASCIIArt folder.
-Run the Shell file - ascii_art.Shell.
-The user interface will run in the console.\n
-Comands the program supports:
+Place the image file (PNG/JPEG) in the ASCIIArt folder.  
+Run the Shell file - ascii_art.Shell.  
+The user interface will run in the console.  
+Comands the program supports:  
 1. exit - exit the program.
 2. chars - viewing the current character collection.
 3. add - adding characters to the current character set.
-   By default, the ASCII character collection includes 0-9.
-   Additional characters can be added using the following commands:
-  'add a' (add the char a).
-  'add m-p' (add the sequence m,n,o,p).
-  'add all' (will add all ASCII Chars).
-  'add space' (add the space charecter). 
+   By default, the ASCII character collection includes 0-9.  
+   Additional characters can be added using the following commands:  
+  'add a' (add the char a).  
+  'add m-p' (add the sequence m,n,o,p).  
+  'add all' (will add all ASCII Chars).  
+  'add space' (add the space charecter).   
 4. remove - removal of characters from the current character set.
    Remove ASCII chars from the character collection :
   'remove a' (remove the char a).
