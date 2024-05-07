@@ -4,7 +4,7 @@ This project converts image files into ASCII art. The program accepts a relative
 # Instructions
 Place the image file (PNG/JPEG) in the ASCIIArt folder.
 Run the Shell file - ascii_art.Shell.
-The user interface will run in the console.
+The user interface will run in the console.\n
 Comands the program supports:
 1. exit - exit the program.
 2. chars - viewing the current character collection.
