@@ -15,16 +15,16 @@ Comands the program supports:
   'add m-p' (add the sequence m,n,o,p).  
   'add all' (will add all ASCII Chars).  
   'add space' (add the space charecter).   
-4. remove - removal of characters from the current character set.
-   Remove ASCII chars from the character collection :
-  'remove a' (remove the char a).
-  'remove m-p' (remove the sequence m,n,o,p).
-  'remove all' (will remove all ASCII Chars).
-  'remove space' (remove the space charecter). 
+4. remove - removal of characters from the current character set.  
+   Remove ASCII chars from the character collection :  
+  'remove a' (remove the char a).  
+  'remove m-p' (remove the sequence m,n,o,p).  
+  'remove all' (will remove all ASCII Chars).  
+  'remove space' (remove the space charecter).   
 5. res - controlling the resolution of our image - increasing and decreasing the resolution.
-   By default, the resolution is set to 128.
-  'res up' (doubles the current resolution).
-  'res down' (divide the current resolution in 2).
+   By default, the resolution is set to 128.  
+  'res up' (doubles the current resolution).  
+  'res down' (divide the current resolution in 2).  
 6. image - selecting an image file.
     By default the image is 'cat.jpeg'. To use a different image, place the image file (PNG/JPEG) in the ASCIIArt folder. Use the command: image <relative_path.jpeg/png>.
 7. output - choosing the Output format.
